@@ -1,0 +1,1 @@
+export { makeEdgeSeeker } from './makeEdgeSeeker'
